@@ -1,0 +1,1830 @@
+[
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "LED 3mm grün diffus 2,2V 120mcd 40°",
+              "lang": "DE",
+              "flags": ["X"]
+            },
+            {
+              "text": "LED 3mm green diffus 2,2V 120mdc 40°",
+              "lang": "EN",
+              "flags": ["X"]
+            },
+            { "text": "151 031 VS0 400 0", "lang": "DE", "flags": ["P"] },
+            { "text": "151 031 VS0 400 0", "lang": "EN", "flags": ["P"] }
+          ],
+          "lines": [
+            { "text": "WE-TI Tonneninduktivität", "lang": "DE", "flags": ["P"] },
+            {
+              "text": "WE-TI Radial Leaded Wire Wound Inductor",
+              "lang": "EN",
+              "flags": ["P"]
+            },
+            {
+              "text": "WL-TMRC THT Mono-color Round Color",
+              "lang": "DE",
+              "flags": ["P"]
+            },
+            {
+              "text": "WL-TMRC THT Mono-color Round Color",
+              "lang": "EN",
+              "flags": ["P"]
+            },
+            { "text": "3mm, Bright Green", "lang": "DE", "flags": ["P"] },
+            { "text": "3mm, Bright Green", "lang": "EN", "flags": ["P"] },
+            {
+              "text": "Typ (@20mA) 572nm, 120mcd, 2.2V, 40° (AlInGaP)",
+              "lang": "DE",
+              "flags": ["P"]
+            },
+            {
+              "text": "Typ (@20mA) 572nm, 120mcd, 2.2V, 40° (AlInGaP)",
+              "lang": "EN",
+              "flags": ["P"]
+            },
+            { "text": "Verpackungsart: Bulk", "lang": "DE", "flags": ["P"] },
+            { "text": "Type of packaging: Bulk", "lang": "EN", "flags": ["P"] }
+          ]
+        }
+      ],
+      "artno": "013-011801",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "LED-Display VC10 4 Stellen",
+              "lang": "DE",
+              "flags": ["X"]
+            },
+            { "text": "LED display VC10 4 digits", "lang": "EN", "flags": ["X"] },
+            {
+              "text": "Externes Kunden-Display",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "External costumer display",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            }
+          ],
+          "lines": [
+            {
+              "text": "LED-Display 7211 (MEI)",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "LED display 7211(MEI)",
+              "lang": "EN",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "4 Stellen, rot, Ziffernhöhe 13mm, gemeinsame Anode",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "4 digits, red, digit height 13mm, comman anode",
+              "lang": "EN",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "inkl. Metallrahmen",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "incl. metal frame",
+              "lang": "EN",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "Kabellänge: 55 cm",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "wire length: 55 cm",
+              "lang": "EN",
+              "flags": ["O", "C", "D"]
+            }
+          ]
+        }
+      ],
+      "type": "Spare",
+      "artno": "013-061000",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "D6R00F1LFS Taster rund weiß C&K",
+              "lang": "DE",
+              "flags": ["P"]
+            },
+            {
+              "text": "D6R00F1LFS button round white C&K",
+              "lang": "EN",
+              "flags": ["P"]
+            }
+          ],
+          "lines": []
+        }
+      ],
+      "type": "Main",
+      "artno": "020-040100",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "Schlüsselschalter SS1E", "lang": "DE", "flags": ["X"] },
+            { "text": "Key switch SS1E", "lang": "EN", "flags": ["X"] },
+            {
+              "text": "Schlüsselschalter",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Key switch", "lang": "EN", "flags": ["O", "C", "D", "I"] },
+            {
+              "text": "Schlüsselschalter SS1E732650",
+              "lang": "DE",
+              "flags": ["P"]
+            },
+            { "text": "Key switch SS1E732650", "lang": "EN", "flags": ["P"] }
+          ],
+          "lines": [
+            { "text": "mit Code 7301-7350", "lang": "DE", "flags": ["P"] },
+            { "text": "with code 7301-7350", "lang": "EN", "flags": ["P"] }
+          ]
+        }
+      ],
+      "type": "Spare",
+      "artno": "020-080101",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "D6R30F1LFS Taster rund gelb C&K",
+              "lang": "DE",
+              "flags": ["P"]
+            },
+            {
+              "text": "D6R30F1LFS button round yellow C&K",
+              "lang": "EN",
+              "flags": ["P"]
+            }
+          ],
+          "lines": []
+        }
+      ],
+      "artno": "020-040300",
+      "type": "Main"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "Schlüsselschalter-Baugruppe", "lang": "DE" },
+            { "text": "Key-switch assembly", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "für CTM 50x0, CTM 7020, CTM 120 und CTM 100",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "for CTM 50x0, CTM 7020, CTM 120 and CTM 100",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mit Kabel mit Stecker für Control Board",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "with cable and connector for Control Board",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mit Montage-Material",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "with mounting material",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mit 2 Schlüsseln",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "with two keys",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Schlüssel-Nr.: §§§SN§§§",
+              "lang": "DE",
+              "flags": ["D", "I"]
+            }
+          ]
+        }
+      ],
+      "type": "Sub",
+      "artno": "020-080100",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "D6R40F1LFS Taster rund rot C&K",
+              "lang": "DE",
+              "flags": ["P"]
+            },
+            {
+              "text": "D6R40F1LFS button round red C&K",
+              "lang": "EN",
+              "flags": ["P"]
+            }
+          ],
+          "lines": []
+        }
+      ],
+      "artno": "020-040200",
+      "type": "Main"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "Satz mit 2 Zusatzschlüsseln für Schlüsselschalter",
+              "lang": "DE"
+            },
+            { "text": "Set with 2 additional keys for key switch", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Schlüsselnummer §§§NR§§§ (für SN §§§SN§§§)",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Key number §§§NR§§§ (for SN §§§SN§§§)",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            }
+          ]
+        }
+      ],
+      "artno": "020-080102",
+      "type": "Main"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "Schlüsselrohling für Schlüsselschalter", "lang": "DE" },
+            { "text": "Raw-key for key-switch", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "für alle CTM",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "for all CTM",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "für Nachfertigung durch Schlüsseldienst",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "for reproduction by locksmiths",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            }
+          ]
+        }
+      ],
+      "artno": "020-080600",
+      "type": "Spare"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "Ersatz-Schlüssel für Sicherheitsschloss DOM",
+              "lang": "DE",
+              "flags": ["X"]
+            },
+            {
+              "text": "Schlüssel für Sicherheitsschloss DOM",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Ersatzschlüssel", "lang": "DE", "flags": ["P"] },
+            { "text": "Key for safety lock DOM", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Schlüssel-Nummer: §§§NR§§§",
+              "lang": "DE",
+              "flags": ["P"]
+            },
+            {
+              "text": "für alle CTM",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "for all CTM",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Schlüsselnummer bei Bestellung angeben!",
+              "lang": "DE",
+              "flags": ["O"]
+            },
+            {
+              "text": "give number from key at order!",
+              "lang": "EN",
+              "flags": ["O"]
+            },
+            {
+              "text": "Schlüsselnummer: §§§NR§§§",
+              "lang": "DE",
+              "flags": ["C", "D", "I"]
+            },
+            {
+              "text": "Key number: §§§NR§§§",
+              "lang": "EN",
+              "flags": ["C", "D", "I"]
+            },
+            {
+              "text": "Einzelanfertigung! Lieferzeit ca. 1-2 Wochen!",
+              "lang": "DE",
+              "flags": ["O"]
+            },
+            {
+              "text": "individual production! Delivery time approx. 1-2 weeks!",
+              "lang": "EN",
+              "flags": ["O"]
+            }
+          ]
+        }
+      ],
+      "type": "Spare",
+      "artno": "020-081010",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "Telegärtner J01000A1255Z (BNC-Kabelstecker 50 Ohm - Professional)",
+              "lang": "DE"
+            },
+            {
+              "text": "Telegärtner J01000A1255Z (BNC cable plug crimp 50 ohm professional)",
+              "lang": "EN"
+            }
+          ],
+          "lines": [
+            { "text": "für Kabel RG-58C/U", "lang": "DE" },
+            { "text": "for cable RG-58C/U", "lang": "EN" },
+            { "text": "Montageart: crimp/crimp", "lang": "DE" },
+            { "text": "Type of installation: crimp/crimp", "lang": "EN" },
+            { "text": "A0205, G01", "lang": "DE" },
+            { "text": "A0205, G01", "lang": "EN" }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "023-041710"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "Telegärtner J01000A1257 (BNC-Kabelwinkelstecker 50 Ohm)",
+              "lang": "DE"
+            },
+            {
+              "text": "Telegärtner J01000A1257 (BNC ancle plug crimp 50 ohm)",
+              "lang": "EN"
+            }
+          ],
+          "lines": [
+            { "text": "für Kabel RG-58C/U", "lang": "DE" },
+            { "text": "for kabel RG-58C/U", "lang": "EN" },
+            { "text": "Montageart: löt/crimp", "lang": "DE" },
+            { "text": "Type of installation: solder/crimp", "lang": "EN" },
+            { "text": "A0505, G01", "lang": "DE" },
+            { "text": "A0505, G01", "lang": "EN" }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "023-041210"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "Verlängerung der Gewährleistung von 36 auf 60 Monate",
+              "lang": "DE"
+            },
+            {
+              "text": "Extension of the warranty from 36 to 60 months",
+              "lang": "EN"
+            }
+          ],
+          "lines": []
+        }
+      ],
+      "type": "Sub",
+      "artno": "799-060120",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "Software-Supportvertrag für HEDAS", "lang": "DE" },
+            { "text": "Software Support Agreement for HEDAS", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Support über Remote-Zugriff inkl. eMail-Support",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Support via remote access incl. eMail support",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "1 Jahr Laufzeit",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "1 year term",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Zahlung im Voraus",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Payment in advance",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Preis gilt pro Jahr",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Price valid per year",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "12 Monate Mindestlaufzeit",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "12 months minimum term",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            }
+          ]
+        }
+      ],
+      "artno": "839-060100"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "COPYTRON®-Manager", "lang": "DE" },
+            { "text": "COPYTRON® Manager", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Verwaltung der Kartenleser über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Windows® program for managing card readers over the network",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Auslesen und Ändern der Einstellungen",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Read and change settings",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sperren einzelner Karten",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Locking of individual cards",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Auslesen und Exportieren der Kostenstellen",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Read and export cost centers",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "System-Code: §§§SC§§§",
+              "lang": "DE",
+              "flags": ["C", "D"]
+            },
+            { "text": "System code: §§§SC§§§", "lang": "EN", "flags": ["C", "D"] }
+          ]
+        }
+      ],
+      "artno": "840-010100",
+      "type": "Main"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "COPYTRON® Clicks Lite-1", "lang": "DE" },
+            { "text": "COPYTRON® Clicks Lite-1", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien und Drucke und eines einzelnen Kopierers",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Windows® programm for displaying the copies and prints made and a single copier",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Query via the network",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format differentiation: A4, A3, Farbe A4, Farbe A3",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] },
+            { "text": "Serial no.: §§§SN§§§", "lang": "EN", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-010100",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Plus-1", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien und Drucke und eines einzelnen Kopierers",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Anzeige des Gesamt-Preises",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Preise einstellbar in 0,1c-Schritten:\\\\- s/w-Kopie, A3-s/w-Kopie, A4-Farbkopie, A3-Farbkopie,\\\\- s/w- Druck, A3-s/w- Druck, A4-Farbdruck, A3-Farbdruck, Scan",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "flexible Rabatteinstellung",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mehrere Preistabellen möglich",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-010110",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Lite", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Grundversion für bis zu 5 Kopierer/Drucker",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Universell für alle Kopierer und Drucker mit Netzwerkschnittstelle & SNMP-Protokoll einsetzbar (Lernprogramm für Windows® wird mitgeliefert)",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-020100",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Lite-2", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sonderversion für bis zu 2 Kopierer/Drucker",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Universell für alle Kopierer und Drucker mit Netzwerkschnittstelle & SNMP-Protokoll einsetzbar (Lernprogramm für Windows® wird mitgeliefert)",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-020102",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Lite-3", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sonderversion für bis zu 3 Kopierer/Drucker",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Universell für alle Kopierer und Drucker mit Netzwerkschnittstelle & SNMP-Protokoll einsetzbar (Lernprogramm für Windows® wird mitgeliefert)",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-020103",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "Zusatz-Lizenz für Clicks Lite", "lang": "DE" },
+            { "text": "Add-on license for Clicks Lite", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Erweiterung von Clicks Lite um 5 zusätzliche Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Extension of Clicks Lite with 5 additional copiers",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] },
+            { "text": "Serial No.: §§§SN§§§", "lang": "EN", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-020110",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Lite-12", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sonderversion für bis zu 12 Kopierer/Drucker",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Universell für alle Kopierer und Drucker mit Netzwerkschnittstelle & SNMP-Protokoll einsetzbar (Lernprogramm für Windows® wird mitgeliefert)",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-020112",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "COPYTRON® Clicks Lite-6", "lang": "DE" },
+            { "text": "COPYTRON® Clicks Lite-6", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Windows® software for displaying the copies & prints made",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Monitoring over the network",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format distinction: A4, A3, Color A4, Color A3",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sonderversion für bis zu 6 Kopierer/Drucker",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Special version for up to 6 copiers / printers",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Resetting the counters of individual copiers",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Universell für alle Kopierer und Drucker mit Netzwerkschnittstelle & SNMP-Protokoll einsetzbar (Lernprogramm für Windows® wird mitgeliefert)",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Universal usable for all copiers and printers with network interface & SNMP protocol (Configuration tool for Windows® is availabe)",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Can be extended as desired with additional licences",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] },
+            { "text": "Serial No.: §§§SN§§§", "lang": "EN", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-020106",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Plus", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Anzeige des Gesamt-Preises",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Preise einstellbar in 0,1c-Schritten:\\\\- s/w-Kopie, A3-s/w-Kopie, A4-Farbkopie, A3-Farbkopie,\\\\- s/w- Druck, A3-s/w- Druck, A4-Farbdruck, A3-Farbdruck, Scan",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "flexible Rabatteinstellung",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mehrere Preistabellen möglich",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Tageszähler, Zähler für Abrechnungsperiode und Total-Zähler",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Speicherung der Transaktionen in einer Datenbank",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Grundversion für bis zu 5 Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-030100",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Plus-2", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Anzeige des Gesamt-Preises",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Preise einstellbar in 0,1c-Schritten:\\\\- s/w-Kopie, A3-s/w-Kopie, A4-Farbkopie, A3-Farbkopie,\\\\- s/w- Druck, A3-s/w- Druck, A4-Farbdruck, A3-Farbdruck, Scan",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "flexible Rabatteinstellung",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mehrere Preistabellen möglich",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Tageszähler, Zähler für Abrechnungsperiode und Total-Zähler",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Speicherung der Transaktionen in einer Datenbank",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sonderversion für bis zu 2 Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-030102",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Plus-3", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Anzeige des Gesamt-Preises",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Preise einstellbar in 0,1c-Schritten:\\\\- s/w-Kopie, A3-s/w-Kopie, A4-Farbkopie, A3-Farbkopie,\\\\- s/w- Druck, A3-s/w- Druck, A4-Farbdruck, A3-Farbdruck, Scan",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "flexible Rabatteinstellung",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mehrere Preistabellen möglich",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Tageszähler, Zähler für Abrechnungsperiode und Total-Zähler",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Speicherung der Transaktionen in einer Datenbank",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sonderversion für bis zu 3 Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-030103",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "COPYTRON® Clicks Plus-6", "lang": "DE" },
+            { "text": "COPYTRON® Clicks Plus-6", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Windows® program for displaying the copies & prints made ",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Query via the network",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format differentiation: A4, A3, colour A4, colour A3",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Anzeige des Gesamt-Preises",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Display of the total price",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "targeted resetting of the customer counters of individual copiers",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Preise einstellbar in 0,1c-Schritten:\\\\- s/w-Kopie, A3-s/w-Kopie, A4-Farbkopie, A3-Farbkopie,\\\\- s/w- Druck, A3-s/w- Druck, A4-Farbdruck, A3-Farbdruck, Scan",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Prices adjustable in 0.1c steps:\\\\- b/w copy, A3 b/w copy, A4 colour copy, A3 colour copy,\\\\- b/w print, A3 b/w print, A4 colour print, A3 colour print, scan",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "flexible Rabatteinstellung",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "flexible discount setting",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mehrere Preistabellen möglich",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "several price tables possible",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Tageszähler, Zähler für Abrechnungsperiode und Total-Zähler",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Day counter, counter for billing period and total counter",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Speicherung der Transaktionen in einer Datenbank",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Storage of transactions in a database",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sonderversion für bis zu 6 Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Special version for up to 6 copiers",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "arbitrarily expandable via additional licenses",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] },
+            { "text": "Serial no.: §§§SN§§§", "lang": "EN", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-030106",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "Zusatz-Lizenz für Clicks Plus", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Erweiterung von Clicks Plus um 5 zusätzliche Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-030110",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Clicks Plus-12", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Windows®-Programm zur Anzeige der getätigten Kopien & Drucke",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Abfrage über das Netzwerk",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Format-Unterscheidung: A4, A3, Farbe A4, Farbe A3",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Anzeige des Gesamt-Preises",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "gezielte Rückstellung der Kundenzähler einzelner Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Preise einstellbar in 0,1c-Schritten:\\\\- s/w-Kopie, A3-s/w-Kopie, A4-Farbkopie, A3-Farbkopie,\\\\- s/w- Druck, A3-s/w- Druck, A4-Farbdruck, A3-Farbdruck, Scan",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "flexible Rabatteinstellung",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "mehrere Preistabellen möglich",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Tageszähler, Zähler für Abrechnungsperiode und Total-Zähler",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Speicherung der Transaktionen in einer Datenbank",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sonderversion für bis zu 12 Kopierer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "über Zusatzlizenzen beliebig erweiterbar",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-030112",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            {
+              "text": "Fern-Installation Clicks",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            }
+          ],
+          "lines": [
+            {
+              "text": "Zugang mit Teamviewer",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "Individuelle Abrechnung nach Zeitaufwand",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "Preis gilt pro Stunde",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            }
+          ]
+        }
+      ],
+      "type": "Service",
+      "artno": "841-080100",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "COPYTRON® Clicks-Box", "lang": "DE" },
+            { "text": "COPYTRON® Clicks-Box", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "für Clicks Lite & Clicks Plus",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "for Clicks Lite & Clicks Plus",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Netzwerk-Interface zum Sperren und zur Abfrage von 5 Kopierern",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Network interface for locking and querying 5 copiers",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "5 komplette Kopierer-Interfaces mit 3 Eingängen und 1 potentialfreiem Relais-Kontakt",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "5 complete copier interfaces with 3 inputs and 1 potential-free relay contact",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Einstellung der IP-Adresse über mitgeliefertes Windows®-Programm",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "setting the IP address via the supplied Windows® program",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Steckernetzteil 100..230 V AC / 5 V DC",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "Plug-in power supply unit 100..230 V AC / 5 V DC",
+              "lang": "EN",
+              "flags": ["O", "C", "D"]
+            },
+            { "text": "MAC: §§§MAC§§§", "lang": "DE", "flags": ["D", "I"] },
+            { "text": "MAC: §§§MAC§§§", "lang": "EN", "flags": ["D", "I"] },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] },
+            { "text": "Serial No.: §§§SN§§§", "lang": "EN", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "841-090100",
+      "pos": "0",
+      "leaflet": {
+        "leaflet": "https://hoer-electronic.de/de/software/copytron-clicks-plus.html?file=files/downloads/DE%20Datenblatt%20Clicks.pdf",
+        "flags": ["O"],
+        "lang": "DE"
+      },
+      "file": "files/downloads/DE%20Datenblatt%20Clicks.pdf"
+    },
+    {
+      "data": [
+        {
+          "titles": [
+            { "text": "COPYTRON® KD 5", "lang": "DE" },
+            { "text": "COPYTRON® KD 5", "lang": "EN" }
+          ],
+          "lines": [
+            {
+              "text": "Kopienzähler mit 8-stelligem LC-Display",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Copy counter with 8 digit LC display",
+              "lang": "EN",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Reset-Taste zur Rückstellung des Displays",
+              "lang": "DE",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "Reset button for display",
+              "lang": "EN",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "Sperrung und Freigabe des Kopierers vom Tresen aus",
+              "lang": "DE",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "Locking and revealing of copier from counter",
+              "lang": "EN",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "2-teiliges Anschlusskabel für den Kopierer (ca. 9,0 m)",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "2-part connection cable for copier (ca. 9,0 m)",
+              "lang": "EN",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "Betriebsspannung 5 V DC",
+              "lang": "DE",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "Opperating voltage 5 V DC",
+              "lang": "EN",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "Steckernetzteil 100..230 V AC / 5 V DC",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            {
+              "text": "Plug-in power supply100..230 V AC / 5 V DC",
+              "lang": "EN",
+              "flags": ["O", "C", "D"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "842-010100"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® Copyshop-Modul", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Erweiterung für Clicks-Box",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Anzeige des Freigabe-Status des Kopierers über LEDs",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sperr-Taste zur Sperrung des Kopierers durch Nutzer",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "inkl. Anschlusskabel 3m",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "inkl. Steckernetzteil 5V",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "artno": "841-090300",
+      "type": "Main"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® KD 5 (Grundgerät)", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Kopienzähler mit 8-stelligem LC-Display",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Reset-Taste zur Rückstellung des Displays",
+              "lang": "DE",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "Sperrung und Freigabe des Kopierers vom Tresen aus",
+              "lang": "DE",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "Betriebsspannung 5 V DC",
+              "lang": "DE",
+              "flags": ["O", "C"]
+            },
+            {
+              "text": "Steckernetzteil 100..230 V AC / 5 V DC",
+              "lang": "DE",
+              "flags": ["O", "C", "D"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "type": "Main",
+      "artno": "842-010101",
+      "pos": "0"
+    },
+    {
+      "data": [
+        {
+          "titles": [{ "text": "COPYTRON® KD 5-2", "lang": "DE" }],
+          "lines": [
+            {
+              "text": "Zweifach Kopienzähler mit zwei 8-stelligen LC-Displays",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Reset-Tasten zur Rückstellung der Displays",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Sperrung und Freigabe der Kopierer vom Tresen aus",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "2-teilige Anschlusskabel für die Kopierer (ca. 9,0m)",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Betriebsspannung 5 V DC",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            {
+              "text": "Steckernetzteil 100..230 V AC / 5 V DC",
+              "lang": "DE",
+              "flags": ["O", "C", "D", "I"]
+            },
+            { "text": "Serien-Nr.: §§§SN§§§", "lang": "DE", "flags": ["D", "I"] }
+          ]
+        }
+      ],
+      "artno": "842-020100",
+      "type": "Main"
+    }
+  ]
